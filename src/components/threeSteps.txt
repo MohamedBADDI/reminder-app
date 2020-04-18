@@ -1,0 +1,4 @@
+1 - action types js object
+2 - action creators = file js 
+3 - Reducers = dispatch
+4 - jsx
